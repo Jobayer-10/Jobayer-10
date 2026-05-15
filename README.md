@@ -1,17 +1,59 @@
-## Hi, I'm Jobayer 😊
+#  Hi there, I'm Jobayer 👋
 
-I’m passionate about UI/UX design, Spring Boot development, and data analysis — but I don’t stop there.
+I love working with **data, ML and AI** to build real-world solutions.
 
-## 📌 Interests:
+---
 
-Crafting intuitive user experiences
+## 🚀 About Me
 
-Building backend systems with Spring Boot
+- 📊 Learning **Data Analysis (Python, SQL, Excel)**
+- 🌦️ Interested in **Artificial Intelligence and Machine Learning**
+- 🎯 Goal: Become a **Data Analyst / ML Engineer/AI Engineer**
 
-Exploring data to find meaningful insights
+---
 
-🌱 Always learning. Always improving. Day by day.
+## 🛠️ Skills & Tools
 
-✨ Not limited by labels — if it solves a problem or sparks curiosity, I’m in.
+### 💻 Programming
+- Python 
+- SQL 
+- Java
+- C
+- C++
 
-“Better than yesterday.”
+### 📊 Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 📁 Tools
+- Excel
+- Tableu *(learning)*
+- Google Collab
+
+---
+
+## 📌 Featured Projects
+
+
+### 🌦️ Climate Data Pipeline
+- NASA POWER API data collection  
+- Data cleaning & merging  
+- District/Union level dataset  
+
+🔗 (https://github.com/Jobayer-10/Bangladesh-climate-data)
+
+---
+
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/jobayer-bin-kibria-68a991407/)  
+- 📧 Email: prantojobayer308@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning **raw messy datasets into meaningful insights** 😄
