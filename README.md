@@ -34,18 +34,6 @@ I love working with **data, ML and AI** to build real-world solutions.
 
 ---
 
-## 📌 Featured Projects
-
-
-### 🌦️ Climate Data Pipeline
-- NASA POWER API data collection  
-- Data cleaning & merging  
-- District/Union level dataset  
-
-🔗 (https://github.com/Jobayer-10/Bangladesh-climate-data)
-
----
-
 
 ## 📫 Connect With Me
 
@@ -54,6 +42,3 @@ I love working with **data, ML and AI** to build real-world solutions.
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy turning **raw messy datasets into meaningful insights** 😄
