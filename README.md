@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jobayer 😊
 
-<!--
-**Jobayer-10/Jobayer-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about UI/UX design, Spring Boot development, and data analysis — but I don’t stop there.
 
-Here are some ideas to get you started:
+## 📌 Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Crafting intuitive user experiences
+
+Building backend systems with Spring Boot
+
+Exploring data to find meaningful insights
+
+🌱 Always learning. Always improving. Day by day.
+
+✨ Not limited by labels — if it solves a problem or sparks curiosity, I’m in.
+
+“Better than yesterday.”
