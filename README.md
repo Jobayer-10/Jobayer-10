@@ -1,9 +1,5 @@
 #  Hi there, I'm Jobayer 👋
 
-I love working with **data, ML and AI** to build real-world solutions.
-
----
-
 ## 🚀 About Me
 
 - 📊 Learning **Data Analysis (Python, SQL, Excel)**
@@ -21,19 +17,12 @@ I love working with **data, ML and AI** to build real-world solutions.
 - C
 - C++
 
-### 📊 Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
 ### 📁 Tools
 - Excel
-- Tableu *(learning)*
-- Google Collab
+- Tableau *(learning)*
+- Google Colab
 
 ---
-
 
 ## 📫 Connect With Me
 
